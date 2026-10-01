@@ -1,0 +1,14 @@
+# Veri seti (Kaggle'dan indirilir)
+dataset/
+brain-tumor-mri-dataset/
+*.zip
+
+# Eğitilmiş modeller
+*.keras
+*.h5
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
