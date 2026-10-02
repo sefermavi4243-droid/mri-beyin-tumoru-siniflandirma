@@ -1,6 +1,5 @@
 # MRI Görüntülerinden Beyin Tümörü Tespiti ve Sınıflandırılması
 
-Atatürk Üniversitesi, Mühendislik Fakültesi, Yazılım Mühendisliği bölümü **Örüntü Tanıma** dersi proje ödevi (Haziran 2026).
 
 MRI görüntülerinden beyin tümörünü tespit eden ve tümör tipini sınıflandıran, transfer öğrenme tabanlı iki aşamalı bir derin öğrenme sistemi.
 
